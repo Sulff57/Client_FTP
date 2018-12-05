@@ -1,0 +1,11 @@
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.exe
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.pdb
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.xml
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.vbprojResolveAssemblyReference.cache
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client_FTP.Form1.resources
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client_FTP.Resources.resources
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.vbproj.GenerateResource.cache
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.vbproj.CoreCompileInputs.cache
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.exe
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.xml
+F:\1\Backups\D\Autres\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.pdb

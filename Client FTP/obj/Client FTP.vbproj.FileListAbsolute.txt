@@ -1,0 +1,53 @@
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.exe
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.xml
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.pdb
+T:\Client FTP\Client FTP\Client FTP\bin\Debug\Client FTP.exe
+T:\Client FTP\Client FTP\Client FTP\bin\Debug\Client FTP.pdb
+T:\Client FTP\Client FTP\Client FTP\bin\Debug\Client FTP.xml
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\ResolveAssemblyReference.cache
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\Client_FTP.Form1.resources
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\Client_FTP.Resources.resources
+T:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.vbproj.GenerateResource.Cache
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.exe
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.xml
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.pdb
+F:\Client FTP\Client FTP\Client FTP\bin\Debug\Client FTP.exe
+F:\Client FTP\Client FTP\Client FTP\bin\Debug\Client FTP.pdb
+F:\Client FTP\Client FTP\Client FTP\bin\Debug\Client FTP.xml
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\ResolveAssemblyReference.cache
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\Client_FTP.Form1.resources
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\Client_FTP.Resources.resources
+F:\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.vbproj.GenerateResource.Cache
+F:\Client FTP\Client FTP\Client FTP\bin\Release\Client FTP.exe
+F:\Client FTP\Client FTP\Client FTP\bin\Release\Client FTP.pdb
+F:\Client FTP\Client FTP\Client FTP\bin\Release\Client FTP.xml
+F:\Client FTP\Client FTP\Client FTP\obj\Release\ResolveAssemblyReference.cache
+F:\Client FTP\Client FTP\Client FTP\obj\Release\Client_FTP.Form1.resources
+F:\Client FTP\Client FTP\Client FTP\obj\Release\Client_FTP.Resources.resources
+F:\Client FTP\Client FTP\Client FTP\obj\Release\Client FTP.vbproj.GenerateResource.Cache
+F:\Client FTP\Client FTP\Client FTP\obj\Release\Client FTP.exe
+F:\Client FTP\Client FTP\Client FTP\obj\Release\Client FTP.xml
+F:\Client FTP\Client FTP\Client FTP\obj\Release\Client FTP.pdb
+T:\AP\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.exe
+T:\AP\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.xml
+T:\AP\Client FTP\Client FTP\Client FTP\obj\Debug\Client FTP.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\ResolveAssemblyReference.cache
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client_FTP.Form1.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client_FTP.Resources.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.vbproj.GenerateResource.Cache
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\bin\Debug\Client FTP.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\ResolveAssemblyReference.cache
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client_FTP.Form1.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client_FTP.Resources.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\Client FTP (VB2005)\Client FTP\Client FTP\obj\Debug\Client FTP.vbproj.GenerateResource.Cache
